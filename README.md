@@ -4,7 +4,7 @@
 
 - Merge rules:
   - feature branch to develop -> use squash merge
-  - release to master, master to develop -> use normal merge
+  - release to master, master to develop -> use normal merge (no fast forward)
   - in Azure: go to branches > Branch Policies > and you see "limit merge types"
 
 ## [GitFlow]()
