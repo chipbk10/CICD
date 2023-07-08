@@ -10,3 +10,5 @@
 ## [GitFlow]()
 
 - [GitFlow hotfix](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitFlow-Hotfix-Branch-Example-Start-Finish)
+
+## [Modularization](https://github.com/chipbk10/Workshop/tree/main/Workshop/Topics/Modularization)
