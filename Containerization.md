@@ -16,3 +16,6 @@
   - data in volume is not lost if containers are stopped or deleted.
   - can be used to store sensitive data, such as credentials or configuration files, outside of the container's file system, improving security and reducing the risk of data breaches.
 
+## Sources
+
+- [Docker & Kubernet Tutorial](https://www.youtube.com/watch?v=bhBSlnQcq2k&ab_channel=Amigoscode)
