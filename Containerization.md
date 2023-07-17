@@ -2,10 +2,6 @@
 
 @Todo
 
-## Kubernet
-
-@Todo
-
 ## Docker
 
 - image: is a template that defines how to build a container, including the application code, dependencies, and configuration
@@ -24,6 +20,12 @@
   - Image sharing: Docker Registry allows users to share Docker images with others, enabling collaboration and making it easier to share images across teams and environments.
   - Continuous integration and deployment: Docker Registry can be integrated with continuous integration and deployment (CI/CD) pipelines, making it easier to automate the build, test, and deployment of Docker images.
   - Versioning and tagging: Docker Registry supports versioning and tagging of images, making it easier to manage and track different versions of images over time.
+ 
+## Kubernet
+
+- Using Docker alone is suitable for local development or running isolated applications. However, when you need to manage a complex application with multiple containers, handle scaling, load balancing, and automatic failover, that's where Kubernetes comes in.
+
+- Kubernetes provides additional capabilities for container orchestration, service discovery, automatic scaling, and high availability. It allows you to manage multiple containers and their interactions across a cluster of machines. So, while Docker focuses on building and running individual containers, Kubernetes provides a higher level of abstraction and management for containerized applications in a production environment.
 
 ## Sources
 
