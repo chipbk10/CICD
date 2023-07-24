@@ -1,5 +1,9 @@
 # CICD
 
+## DevOps
+
+- [What is DevOps?](https://www.youtube.com/watch?v=0yWAtQ6wYNM&ab_channel=TechWorldwithNana)
+
 ## [Git](https://github.com/chipbk10/Scripts/blob/master/GIT.md)
 
 - Merge rules:
